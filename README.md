@@ -1,2 +1,2 @@
 # UploadFileToAWS-S3
-Console demo to upload a file to AWS S3 with TransferUtility class from AWS SDK 
+.NET Framework Console example demo to upload a file to AWS S3 with TransferUtility class from AWS SDK. Only shows upload, does not care about security.
